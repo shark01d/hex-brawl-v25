@@ -13,7 +13,7 @@ In a terminal, type __`py main.py`__
 
 ### Configuring the client app
 To connect to your server, a **patched client** is required. 
-Download this [base APK](https://mega.nz/file/rWgjlIqK#wpJ03aqEDLvOqCJN9uV6W-7LYEvudBrsiMHQ447mFfg) and change the IP in `libgg.config.so`
+Download this [base APK](https://mega.nz/file/rWgjlIqK#wpJ03aqEDLvOqCJN9uV6W-7LYEvudBrsiMHQ447mFfg) (most likely won't work on Android 10+) and change the IP in `libgg.config.so`
 
 ### Special thanks
 - [TheAcelot](https://github.com/theacelot) - for making the server.

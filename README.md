@@ -17,3 +17,6 @@ Download this [base APK](https://mega.nz/file/rWgjlIqK#wpJ03aqEDLvOqCJN9uV6W-7LY
 
 ### Special thanks
 - [TheAcelot](https://github.com/theacelot) - for making the server.
+
+### Client Help
+If you found a way to replace frida gadget (libgg.so), please, text me in dm: https://t.me/shark01d

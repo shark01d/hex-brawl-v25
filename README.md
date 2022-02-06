@@ -9,7 +9,7 @@ Simple Brawl Stars v25.107 server emulator written in Python.
 - tinydb
 
 ### Running the server
-In a terminal, type __`py main.py`__/__`python main.py`/__`python3 main.py`__
+In a terminal, type __`py main.py`__/__`python main.py`/__`python3 main.py`
 
 ### Configuring the client app
 To connect to your server, a **patched client** is required. 

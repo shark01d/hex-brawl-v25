@@ -13,10 +13,7 @@ In a terminal, type __`py main.py`__/__`python main.py`/__`python3 main.py`
 
 ### Configuring the client app
 To connect to your server, a **patched client** is required. 
-Download this [base APK](https://mega.nz/file/rWgjlIqK#wpJ03aqEDLvOqCJN9uV6W-7LYEvudBrsiMHQ447mFfg) (most likely won't work on Android 10+) and change the IP in `libgg.config.so`
+Download this [base APK](https://mega.nz/file/zO4gkIQQ#9jTVoHmpSpFf0d4C42lhExh50sljJqyYCy0Id7FhnjA) and change the IP in `libgg.config.so`
 
 ### Special thanks
 - [TheAcelot](https://github.com/theacelot) - for making the server.
-
-### Client Help
-If you found a way to replace frida gadget (libgg.so) without any errors, please, text me in dm: https://t.me/shark01d

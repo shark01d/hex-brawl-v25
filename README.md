@@ -2,14 +2,12 @@
 
 Simple Brawl Stars v25.107 server emulator written in Python.
 
-![ScreenShot](https://cdn.discordapp.com/attachments/939599759851802656/939600047409074286/v25.png) 
-
 ### Requirements:
 - Python 3.7 or higher
 - tinydb
 
 ### Running the server
-In a terminal, type __`py main.py`__/__`python main.py`/__`python3 main.py`
+In a terminal, type __`py main.py`__/__`python main.py`/__`python3 main.py`__
 
 ### Configuring the client app
 To connect to your server, a **patched client** is required. 
